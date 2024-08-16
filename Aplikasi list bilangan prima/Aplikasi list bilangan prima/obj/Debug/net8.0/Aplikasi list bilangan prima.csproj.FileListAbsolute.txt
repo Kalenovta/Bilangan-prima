@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\bin\Debug\net8.0\Aplikasi list bilangan prima.exe
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\bin\Debug\net8.0\Aplikasi list bilangan prima.deps.json
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\bin\Debug\net8.0\Aplikasi list bilangan prima.runtimeconfig.json
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\bin\Debug\net8.0\Aplikasi list bilangan prima.dll
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\bin\Debug\net8.0\Aplikasi list bilangan prima.pdb
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\Aplikasi list bilangan prima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\Aplikasi list bilangan prima.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\Aplikasi list bilangan prima.AssemblyInfo.cs
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\Aplikasi list bilangan prima.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\Aplikasi list bilangan prima.dll
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\refint\Aplikasi list bilangan prima.dll
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\Aplikasi list bilangan prima.pdb
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\Aplikasi list bilangan prima.genruntimeconfig.cache
+C:\Users\HP\source\repos\Aplikasi list bilangan prima\Aplikasi list bilangan prima\obj\Debug\net8.0\ref\Aplikasi list bilangan prima.dll
